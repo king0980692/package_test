@@ -1,5 +1,5 @@
-from utils import progress
-from encoder.encoder import label_encoder, num_encoder
+from .utils import progress
+from .encoder.encoder import label_encoder, num_encoder
 
 import os
 import json
